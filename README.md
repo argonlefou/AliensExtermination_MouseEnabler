@@ -9,7 +9,7 @@ This is just a Proof Of Concept application, and absolutelly not meant to be a f
 You can use the application by either running it from the file explorer or by command line. 
 The game's window size should be detected automatically, however for some people Windows is reporting a NULL size window and the target is not moving from the top left corner.    
 In that case, you can run it from a command line and add some arguments to force the resolution :
-`Aliens_MouseEnabler.exe -resX=1920 -rezY=1080`
+`Aliens_MouseEnabler.exe -resX=1920 -resY=1080`
 
 You can then run the game. You have to let this program running while you're playing
 
